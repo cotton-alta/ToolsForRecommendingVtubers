@@ -220,6 +220,7 @@ DEPENDENCIES
   rails (~> 6.0.3, >= 6.0.3.2)
   sass-rails (>= 6)
   selenium-webdriver
+  sprockets-rails (~> 3.2.1)
   sqlite3 (~> 1.4)
   turbolinks (~> 5)
   tzinfo-data
